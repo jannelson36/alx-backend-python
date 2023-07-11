@@ -6,7 +6,7 @@
 * Duck typing
 * How to validate your code with mypy
 
-## Tasks To Complete
+## Tasks
 
 + [x] 0. **Basic annotations - add**<br/>[0-add.py](0-add.py) contains a type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float..
 
